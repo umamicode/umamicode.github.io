@@ -8,8 +8,11 @@ I'm a graduate researcher in the [Graduate School of Data Science](https://gsds.
 
 My research interests include **Causal Representation Learning and Domain Generalization**. I'm also a big fan of History👨🏻‍🏫, Jazz🎷 and Doritos🔥.
 
-- [🤓 Linkedin](https://www.linkedin.com/in/umamicode/)
-- [👨🏻‍💻 Github](https://github.com/umamicode)
+{: .box-note}
+[🤓 Linkedin](https://www.linkedin.com/in/umamicode/)
+
+{: .box-note}
+[👨🏻‍💻 Github](https://github.com/umamicode)
 
 ## CV
 
