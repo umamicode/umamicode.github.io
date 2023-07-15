@@ -9,6 +9,5 @@ title: Research
 
 
 - Single Source Domain Generalization via Oracle Regularization using Causal Mechanisms &nbsp; *(Under Review)* 
-![SDG](/assets/img/sdg.png)
 
 - Leveraging Self Knowledge as Teachers for Out-of-domain Robustness &nbsp; *(Work In Progress)* 
