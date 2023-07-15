@@ -23,21 +23,21 @@ Here's a more formal version of my CV.
 #### LG AI Research - Research Scientist Intern &nbsp; *(July 2023 ~ Present)*
 - Research Scientist Intern at [LG AI Research, Data Intelligence Lab](https://www.lgresearch.ai/ourwork/research?tab=PD)
 
-#### Causality Lab, SNU GSDS - Research Assistant *(July 2021 ~ August 2023)*
+#### Causality Lab, SNU GSDS - Research Assistant &nbsp; *(July 2021 ~ August 2023)*
 - Research Assistant Intern at Causality Lab @ [Graduate School of Data Science, Seoul National University](https://gsds.snu.ac.kr/)
 
-#### VAIV Company - Analyst Intern *(January 2019 ~ February 2019)*
+#### VAIV Company - Analyst Intern &nbsp; *(January 2019 ~ February 2019)*
 - Analyst Intern at [VAIV Company](https://www.vaiv.kr/)
 
 
 ## Education
 
-#### MS, Seoul National University
-- Master of Science (Data Science) *(March 2021 ~ August 2023)*
+#### Master of Science, Seoul National University
+- Master of Data Science *(March 2021 ~ August 2023)*
 - Advisor: Professor [Sanghack Lee](https://www.sanghacklee.me/)
 
-#### BA, Seoul National University
-- Bachelor of Arts (Information Science & Culture / Western History) *(March 2014 ~ February 2021)*
+#### Bachelor of Arts, Seoul National University
+- Information Science & Culture / Western History *(March 2014 ~ February 2021)*
 
 
 
