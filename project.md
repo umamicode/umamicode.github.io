@@ -3,7 +3,7 @@ layout: page
 title: Project
 ---
 
-## Research Projects
+## Collaborative Projects @SNU
 
 #### **"Stock Interrelation Research using Keyword and Supply Chain data"** with [NH Investment & Securities](https://www.nhqv.com/)
 ![NHQV](/assets/img/nh_project.png)
