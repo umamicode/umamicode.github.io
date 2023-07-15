@@ -4,13 +4,13 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm a graduate researcher in the [Graduate School of Data Science](https://gsds.snu.ac.kr/), Seoul National University, advised by Professor [Sanghack Lee](https://www.sanghacklee.me/). I'm currently a Research Scientist Intern at [LG AI Research, Data Intelligence Lab](https://www.lgresearch.ai/ourwork/research?tab=PD).
+My research interests include **Causal Representation Learning, Domain Generalization**. Also a big fan of History👨🏻‍🏫, Jazz🎷, and Doritos🔥.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- [Linkedin](https://www.linkedin.com/in/umamicode/)
+- [Github](https://github.com/umamicode)
 
-What else do you need?
+### CV
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Here's a more formal version of my CV.
+- [📄CV](https://github.com/umamicode/umamicode.github.io/assets/CV_DKCHO.pdf)
