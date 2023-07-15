@@ -21,9 +21,11 @@ author: Matt Dongkyu Cho
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Research: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Research: "research"
+  Projects: "project" 
+  #Resources:
+  #  - Research: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://umamicode.github.io"
 
 ################
@@ -252,7 +254,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "Asian/Seoul"
+timezone: "Asia/Seoul"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
