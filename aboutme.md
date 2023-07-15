@@ -27,7 +27,7 @@ Here's a more formal version of my CV.
 - Research Scientist Intern at [LG AI Research, Data Intelligence Lab](https://www.lgresearch.ai/ourwork/research?tab=PD)
 
 #### Causality Lab, SNU GSDS - Research Assistant &nbsp; *(July 2021 ~ August 2023)*
-- Research Assistant Intern at Causality Lab, [Seoul National University GSDS](https://gsds.snu.ac.kr/)
+- Research Assistant at Causality Lab, [Seoul National University GSDS](https://gsds.snu.ac.kr/)
 
 #### VAIV Company - Analyst Intern &nbsp; *(January 2019 ~ February 2019)*
 - Analyst Intern at [VAIV Company](https://www.vaiv.kr/)
