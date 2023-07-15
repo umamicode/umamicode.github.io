@@ -14,7 +14,9 @@ My research interests include **Causal Representation Learning, Domain Generaliz
 ## CV
 
 Here's a more formal version of my CV.
-{: .box-note} [📄CV](/assets/CV_DKCHO.pdf)
+
+{: .box-note}
+[📄CV](/assets/CV_DKCHO.pdf)
 
 - [📄CV](/assets/CV_DKCHO.pdf)
 
