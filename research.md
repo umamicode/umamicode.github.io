@@ -5,7 +5,7 @@ title: Research
 ## Publications & Preprints
 
 {: .box-note}
-**Note:** Some titles were intentionally altered for double-blind peer reviews.
+**Note:** Some titles were intentionally replaced for double-blind peer reviews.
 
 
 - Single Source Domain Generalization via Oracle Regularization using Causal Mechanisms &nbsp; *(Under Review)* 
