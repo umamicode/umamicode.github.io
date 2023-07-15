@@ -32,10 +32,12 @@ Here's a more formal version of my CV.
 
 ## Education
 
-#### Master of Science (Data Science), Seoul National University GSDS *(March 2021 ~ August 2023)*
+#### MS, Seoul National University
+##### Master of Science (Data Science) *(March 2021 ~ August 2023)*
 - Advisor: Professor [Sanghack Lee](https://www.sanghacklee.me/)
 
-#### Bachelor of Arts (Information Science & Culture / Western History), Seoul National University *(March 2014 ~ February 2021)*
+#### BA, Seoul National University
+##### Bachelor of Arts (Information Science & Culture / Western History) *(March 2014 ~ February 2021)*
 
 
 
