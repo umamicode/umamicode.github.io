@@ -14,4 +14,4 @@ My research interests include **Causal Representation Learning, Domain Generaliz
 ### CV
 
 Here's a more formal version of my CV.
-- [📄CV](https://github.com/umamicode/umamicode.github.io/assets/CV_DKCHO.pdf)
+- [📄CV](/assets/CV_DKCHO.pdf)
