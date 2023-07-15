@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Dongkyu Cho
+subtitle: About me
 ---
 
 I'm a graduate researcher in the [Graduate School of Data Science](https://gsds.snu.ac.kr/), Seoul National University, advised by Professor [Sanghack Lee](https://www.sanghacklee.me/). I'm currently a Research Scientist Intern at [LG AI Research, Data Intelligence Lab](https://www.lgresearch.ai/ourwork/research?tab=PD).
