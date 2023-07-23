@@ -6,7 +6,7 @@ subtitle: About me
 
 I'm a graduate researcher in the [Graduate School of Data Science](https://gsds.snu.ac.kr/), Seoul National University, advised by Professor [Sanghack Lee](https://www.sanghacklee.me/). I'm currently a Research Scientist Intern at [LG AI Research](https://www.lgresearch.ai/).
 
-My research interests include **Causal Representation Learning and Out-of-Distribution(OOD) Robustenss**. I'm also a big fan of History👨🏻‍🏫, Jazz🎷 and Doritos🔥.
+My research interests include **Causal Representation Learning and Out-of-Distribution(OOD) Robustness**. I'm also a big fan of History👨🏻‍🏫, Jazz🎷 and Doritos🔥.
 
 {: .box-note}
 [🤓 Linkedin](https://www.linkedin.com/in/umamicode/)
