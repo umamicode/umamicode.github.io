@@ -25,6 +25,7 @@ Here's a more formal version of my CV.
 
 #### LG AI Research - Research Scientist Intern &nbsp; *(July 2023 ~ Present)*
 - Research Scientist Intern at [LG AI Research, Data Intelligence Lab](https://www.lgresearch.ai/ourwork/research?tab=PD)
+- Time-Series Foundation Models, Out-of-distribution generalization
 
 #### Causality Lab, SNU GSDS - Research Assistant &nbsp; *(July 2021 ~ August 2023)*
 - Research Assistant at Causality Lab, [Seoul National University GSDS](https://gsds.snu.ac.kr/)

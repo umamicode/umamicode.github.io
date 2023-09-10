@@ -10,4 +10,6 @@ title: Research
 
 - Single Source Domain Generalization via Oracle Regularization using Causal Mechanisms &nbsp; *(Under Review)* 
 
+- Surgical Weight Averaging for Out-of-domain Generalization  &nbsp; *(Work In Progress @ LG AI)* 
+
 - Leveraging Self Knowledge as Teachers for Out-of-domain Robustness &nbsp; *(Work In Progress)* 
