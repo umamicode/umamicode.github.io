@@ -8,7 +8,7 @@ title: Research
 **Note:** Some titles were intentionally replaced for double-blind peer reviews. 
 
 
-- Learning to ignore: Single Source Domain Generalization via Oracle Regularization &nbsp; *(NeurIPS 2023, Causal Representation Learning Workshop Poster & Under Review @ ICLR 2024)* 
+- Learning to ignore: Single Source Domain Generalization via Oracle Regularization &nbsp; *(NeurIPS 2023, Causal Representation Learning Workshop Poster)* 
 
 - Surgical Weight Averaging for Out-of-domain Generalization  &nbsp; *(Work In Progress @ LG AI)* 
 
