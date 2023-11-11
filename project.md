@@ -12,3 +12,7 @@ title: Project
 #### **"Towards Language Models Capable of Causal Reasoning"** with [LG AI Research](https://www.lgresearch.ai/)
 - Closed & Restarted as: 'Causal Discovery for Time Series Data' 
 ![LG_AI](/assets/img/lgresearch.jpeg)
+
+## Projects @LG AI Research
+**TBD** 
+
