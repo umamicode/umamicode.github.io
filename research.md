@@ -10,6 +10,4 @@ title: Research
 
 - Learning to ignore: Single Source Domain Generalization via Oracle Regularization &nbsp; *(NeurIPS 2023, Causal Representation Learning Workshop Poster)* 
 
-- Surgical Weight Averaging for Out-of-domain Generalization  &nbsp; *(Work In Progress @ LG AI)* 
-
-- Leveraging Self Knowledge as Teachers for Out-of-domain Robustness &nbsp; *(Work In Progress)* 
+- ShERPA: Shifting basin for Enhanced Robustness via Permuted Activations &nbsp; *(To be submitted to ICML 2024)* 
