@@ -4,7 +4,7 @@ title: Matthew Dongkyu Cho
 subtitle: About me
 ---
 
-I'm a graduate researcher in the [Graduate School of Data Science](https://gsds.snu.ac.kr/), Seoul National University, advised by Professor [Sanghack Lee](https://www.sanghacklee.me/). I'm currently a Research Scientist Intern at [LG AI Research](https://www.lgresearch.ai/).
+I'm a Research Scientist Intern at [LG AI Research](https://www.lgresearch.ai/), working on model generalization. I'm a fresh master's graduate from the [Graduate School of Data Science](https://gsds.snu.ac.kr/), Seoul National University. I was fortunate enough to be advised by Professor [Sanghack Lee](https://www.sanghacklee.me/). 
 
 My research interests include **Causal Representation Learning and Out-of-Distribution(OOD) Robustness**. I'm also a big fan of History👨🏻‍🏫, Jazz🎷 and Doritos🔥.
 
