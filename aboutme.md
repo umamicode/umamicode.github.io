@@ -14,6 +14,9 @@ My research interests include **Causal Representation Learning and Out-of-Distri
 {: .box-note}
 [👨🏻‍💻 Github](https://github.com/umamicode)
 
+{: .box-note}
+[🏔️ Google Scholar](https://scholar.google.com/citations?user=qmAMshwAAAAJ&hl=en)
+
 ## CV
 
 Here's a more formal version of my CV.
