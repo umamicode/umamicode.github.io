@@ -4,9 +4,9 @@ title: Matthew Dongkyu Cho
 subtitle: About me
 ---
 
-I'm a Research Scientist Intern at [LG AI Research](https://www.lgresearch.ai/), working on model generalization. I'm a fresh master's graduate from the [Graduate School of Data Science](https://gsds.snu.ac.kr/), Seoul National University. I was fortunate enough to be advised by Professor [Sanghack Lee](https://www.sanghacklee.me/). 
+I'm an incoming CS Ph.D. candidate at [New York University](https://www.nyu.edu/). I'm also a Research Scientist Intern at [LG AI Research](https://www.lgresearch.ai/), working on model generalization. Before that, I finished my master's at the [Graduate School of Data Science](https://gsds.snu.ac.kr/) @ Seoul National University, advised by Professor [Sanghack Lee](https://www.sanghacklee.me/).
 
-My research interests include **Causal Representation Learning and Out-of-Distribution(OOD) Robustness**. I'm also a big fan of History👨🏻‍🏫, Jazz🎷 and Doritos🔥.
+My research interests include **Causal Representation Learning and Out-of-Distribution(OOD) Robustness**. I'm also a big fan of History👨🏻‍🏫, Jazz🎷 and strolling🚶.
 
 {: .box-note}
 [🤓 Linkedin](https://www.linkedin.com/in/umamicode/)
@@ -39,6 +39,9 @@ Here's a more formal version of my CV.
 - NLP-based Market Sentiment Analysis
 
 ## Education
+
+#### Doctor of Philosophy, New York University
+- Doctor of Computer Science &nbsp; *(September 2024 ~)*
 
 #### Master of Science, Seoul National University
 - Master of Data Science &nbsp; *(March 2021 ~ August 2023)*
