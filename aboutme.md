@@ -4,7 +4,7 @@ title: Matthew Dongkyu Cho
 subtitle: About me
 ---
 
-I'm an incoming CS Ph.D. candidate at [New York University](https://www.nyu.edu/). I'm also a Research Scientist Intern at [LG AI Research](https://www.lgresearch.ai/), working on model generalization. Before that, I finished my master's at the [Graduate School of Data Science](https://gsds.snu.ac.kr/) @ Seoul National University, advised by Professor [Sanghack Lee](https://www.sanghacklee.me/).
+I'm an incoming CS Ph.D. student at [New York University](https://www.nyu.edu/). I'm also a Research Scientist Intern at [LG AI Research](https://www.lgresearch.ai/), working on model generalization. Before that, I finished my master's at the [Graduate School of Data Science](https://gsds.snu.ac.kr/) @ Seoul National University, advised by Professor [Sanghack Lee](https://www.sanghacklee.me/).
 
 My research interests include **Causal Representation Learning and Out-of-Distribution(OOD) Robustness**. I'm also a big fan of History👨🏻‍🏫, Jazz🎷 and strolling🚶.
 
