@@ -13,4 +13,4 @@ title: Research
 - ShERPA: Leveraging Neuron Alignment for Knowledge-preserving Fine-tuning  &nbsp; *(ICLR 2024, Workshop on Mathematical and Empirical Understanding of Foundation Models
 (ME-FoMo))* [[paper]](/assets/pdf/ShERPA__Leveraging_Neuron_Alignment_for_Knowledge_preserving_Fine_tuning.pdf)[[poster]](/assets/pdf/ShERPA_poster.pdf)
 
-- Is Data Augmentation Reliable for Single Source Domain Generalization?  &nbsp; *(Working Paper)
+- Is Data Augmentation Reliable for Generalization?  &nbsp; *(Working Paper)
