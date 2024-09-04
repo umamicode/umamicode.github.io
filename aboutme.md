@@ -4,9 +4,9 @@ title: Matthew Dongkyu Cho
 subtitle: About me
 ---
 
-I'm a CS Ph.D. student at [New York University](https://www.nyu.edu/). I'm also a Researcher at [LG AI Research](https://www.lgresearch.ai/). I finished my master's and bachelors at Seoul National University, advised by Professor [Sanghack Lee](https://www.sanghacklee.me/).
+I'm a Computer Science Ph.D. student at [New York University](https://www.nyu.edu/), advised by Professor [Rumi Chunara](https://rumichunara.github.io/). I was also a Researcher at [LG AI Research](https://www.lgresearch.ai/). I finished my master's and bachelors at Seoul National University, advised by Professor [Sanghack Lee](https://www.sanghacklee.me/).
 
-I am primarily interested in **Causal Representation Learning and Out-of-Distribution(OOD) Robustness**. I'm also a big fan of History👨🏻‍🏫, Jazz🎷 and strolling🚶.
+I am primarily interested in **Causal Representation Learning and Out-of-Distribution(OOD) Robustness**. I'm also a big fan of History👨🏻‍🏫 and Jazz🎷.
 
 {: .box-note}
 [🤓 Linkedin](https://www.linkedin.com/in/umamicode/)
@@ -38,10 +38,12 @@ Here's a more formal version of my CV.
 - Analyst Intern at [VAIV Company](https://www.vaiv.kr/)
 - NLP-based Market Sentiment Analysis
 
+
 ## Education
 
 #### Doctor of Philosophy, New York University
 - Doctor of Computer Science &nbsp; *(September 2024 ~)*
+- Advisor: Professor [Rumi Chunara](https://rumichunara.github.io/)
 
 #### Master of Science, Seoul National University
 - Master of Data Science &nbsp; *(March 2021 ~ August 2023)*
