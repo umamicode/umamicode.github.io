@@ -4,6 +4,9 @@ title: Matthew Dongkyu Cho
 subtitle: About me
 ---
 
+{: .box-note}
+**NEWS:** As of September 2024, I've launched a new homepage. Please visit my [ New Homepage](https://sites.google.com/view/dongkyu-cho/home) for recent updates! 
+
 I'm a Computer Science Ph.D. student at [New York University](https://www.nyu.edu/), advised by Professor [Rumi Chunara](https://rumichunara.github.io/). I was also a Researcher at [LG AI Research](https://www.lgresearch.ai/). I finished my master's and bachelors at Seoul National University, advised by Professor [Sanghack Lee](https://www.sanghacklee.me/).
 
 I am primarily interested in **Causal Representation Learning and Out-of-Distribution(OOD) Robustness**. I'm also a big fan of History👨🏻‍🏫 and Jazz🎷.
