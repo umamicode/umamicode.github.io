@@ -5,6 +5,9 @@ title: Research
 ## Publications & Preprints
 
 {: .box-note}
+**NEWS:** As of September 2024, I've launched a new homepage. Please visit my [ New Homepage](https://sites.google.com/view/dongkyu-cho/home) for recent updates! 
+
+{: .box-note}
 **Note:** Some titles were intentionally replaced for double-blind peer reviews. 
 
 
